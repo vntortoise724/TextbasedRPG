@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TextBasedRPG": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
